@@ -1,0 +1,21 @@
+﻿  Building 'modern_warfare_driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\modern_warfare_driver.inf
+  Stamping [Version] section with DriverVer=10/17/2021,16.32.3.560
+  modern_warfare_driver.vcxproj -> C:\Users\dynam\Game Reversal\COD-Warzone\external-warzone-cheat-master\external-warzone-cheat-master\x64\Release\modern_warfare_driver.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\dynam\Game Reversal\COD-Warzone\external-warzone-cheat-master\external-warzone-cheat-master\x64\Release\modern_warfare_driver\modern_warfare_driver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dynam\Game Reversal\COD-Warzone\external-warzone-cheat-master\external-warzone-cheat-master\x64\Release\modern_warfare_driver\modern_warfare_driver.cat
+  
+SIGNTASK : SignTool warning : No file digest algorithm specified. Please specify the digest algorithm with the /fd flag. Using /fd SHA256 is recommended and considered more secure than SHA1. Calling signtool with /fd sha1 is equivalent to the previous behavior. In future releases, this parameter will be required. In order to select the hash algorithm used in the signing certificate's signature, use the /fd certHash option.
+  
