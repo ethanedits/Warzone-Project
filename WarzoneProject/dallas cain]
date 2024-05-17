@@ -1,0 +1,18 @@
+Fatal error: [File:D:/build/++Portal/Sync/Engine/Source/Runtime/Core/Private/Internationalization/ICUInternationalization.cpp] [Line: 153] 
+ICU data directory was not discovered:
+../../../Engine/Programs/CrashReportClient/Content/Internationalization
+../../../Engine/Content/Internationalization
+0x00007ff69fdecfd7 CrashReportClient.exe!UnknownFunction []
+0x00007ff69fde3a51 CrashReportClient.exe!UnknownFunction []
+0x00007ff69fe0fcd2 CrashReportClient.exe!UnknownFunction []
+0x00007ff69fd04d4d CrashReportClient.exe!UnknownFunction []
+0x00007ff69fd13be3 CrashReportClient.exe!UnknownFunction []
+0x00007ff69fd12812 CrashReportClient.exe!UnknownFunction []
+0x00007ff69fd15119 CrashReportClient.exe!UnknownFunction []
+0x00007ff69fd18239 CrashReportClient.exe!UnknownFunction []
+0x00007ff6a07f545e CrashReportClient.exe!UnknownFunction []
+0x00007ff9de83257d KERNEL32.DLL!UnknownFunction []
+0x00007ff9ded4aa58 ntdll.dll!UnknownFunction []
+
+
+
